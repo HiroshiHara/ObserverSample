@@ -8,6 +8,7 @@ import generator.NumberGenerator;
  *
  */
 public class GraphObserver implements Observer {
+	
 	/**
 	 * 数値が生成されるたびにコンソールにその数値を「グラフ」で表示する
 	 */
